@@ -1,0 +1,1 @@
+# dockerize-net-core-microservice-seed
