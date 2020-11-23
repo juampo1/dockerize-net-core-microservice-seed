@@ -1,0 +1,13 @@
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\ProductServiceHost.exe
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\ProductServiceHost.deps.json
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\ProductServiceHost.runtimeconfig.json
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\ProductServiceHost.runtimeconfig.dev.json
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\ProductServiceHost.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\ProductServiceHost.pdb
+D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.csprojAssemblyReference.cache
+D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.AssemblyInfoInputs.cache
+D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.AssemblyInfo.cs
+D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.csproj.CoreCompileInputs.cache
+D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.dll
+D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.pdb
+D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.genruntimeconfig.cache

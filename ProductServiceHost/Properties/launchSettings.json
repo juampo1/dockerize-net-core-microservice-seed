@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "ProductMicroserviceHost": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ServiceName": "ProductService",
+        "Port": "6000"
+      }
+    }
+  }
+}
