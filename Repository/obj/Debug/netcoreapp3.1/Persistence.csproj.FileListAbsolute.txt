@@ -1,9 +1,12 @@
 D:\Products-Service\Repository\bin\Debug\netcoreapp3.1\Persistence.deps.json
 D:\Products-Service\Repository\bin\Debug\netcoreapp3.1\Persistence.dll
 D:\Products-Service\Repository\bin\Debug\netcoreapp3.1\Persistence.pdb
-D:\Products-Service\Repository\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
 D:\Products-Service\Repository\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
 D:\Products-Service\Repository\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
 D:\Products-Service\Repository\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
 D:\Products-Service\Repository\obj\Debug\netcoreapp3.1\Persistence.dll
 D:\Products-Service\Repository\obj\Debug\netcoreapp3.1\Persistence.pdb
+D:\Products-Service\Repository\bin\Debug\netcoreapp3.1\Model.dll
+D:\Products-Service\Repository\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Products-Service\Repository\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+D:\Products-Service\Repository\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete

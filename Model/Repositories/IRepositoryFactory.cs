@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Persistence.Repositories
+namespace Model.Repositories
 {
     public interface IRepositoryFactory
     {
+        IProductRepository CreateProductRepository();
     }
 }

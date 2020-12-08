@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Model.Operation;
 using Model.Services;
 
 namespace ProductServiceHost.Controllers
@@ -13,9 +14,9 @@ namespace ProductServiceHost.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateProduct()
+        public IActionResult CreateProduct(Product product)
         {
-            return Ok();
+            return Ok(_productService.CreateProduct(product));
         }
 
         [HttpGet]

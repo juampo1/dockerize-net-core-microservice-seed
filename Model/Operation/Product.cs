@@ -6,5 +6,8 @@ namespace Model.Operation
 {
     public class Product
     {
+        public long id { get; set; }
+        public string Name { get; set; }
+        public long Quantity { get; set; }
     }
 }

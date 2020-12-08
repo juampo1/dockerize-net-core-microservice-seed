@@ -11,3 +11,12 @@ D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHos
 D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.dll
 D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.pdb
 D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.genruntimeconfig.cache
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Model.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Persistence.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Persistence.pdb
+D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.csproj.CopyComplete
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
