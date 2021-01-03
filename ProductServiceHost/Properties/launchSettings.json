@@ -1,10 +1,11 @@
-﻿{
+{
   "profiles": {
     "ProductMicroserviceHost": {
       "commandName": "Project",
+      "workingDirectory": "D:\\Products-Service\\ProductServiceHost",
       "environmentVariables": {
-        "ServiceName": "ProductService",
-        "Port": "6000"
+        "Port": "6200",
+        "ServiceName": "ProductService"
       }
     }
   }

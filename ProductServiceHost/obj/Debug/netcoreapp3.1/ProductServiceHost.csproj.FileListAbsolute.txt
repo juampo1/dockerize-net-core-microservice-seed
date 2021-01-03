@@ -20,3 +20,14 @@ D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Persistence.pdb
 D:\Products-Service\ProductServiceHost\obj\Debug\netcoreapp3.1\ProductServiceHost.csproj.CopyComplete
 D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Products-Service\ProductServiceHost\bin\Debug\netcoreapp3.1\System.Text.Json.dll

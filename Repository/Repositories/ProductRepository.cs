@@ -19,10 +19,10 @@ namespace Persistence.Repositories
                     Quantity = product.Quantity
                 });
 
-                var sql = "INSERT INTO PRODUCT(NANE, QUANTITY) VALUES (:Nane, :Quantity)";
-                c.Execute(sql, param);
+                var sql = "INSERT INTO PRODUCT(NAME, QUANTITY) VALUES (@Name, @Quantity);" +
+                          "SELECT LAST_INSERT_ID();";
 
-                return param.Get<long>("Id");
+                return c.ExecuteScalar<long>(sql, param);
             });
         }
     }

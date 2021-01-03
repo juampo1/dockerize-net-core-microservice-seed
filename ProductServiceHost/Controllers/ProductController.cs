@@ -4,7 +4,8 @@ using Model.Services;
 
 namespace ProductServiceHost.Controllers
 {
-    class ProductController : ControllerBase
+    [Route("api/v1/product")]
+    public class ProductController : ControllerBase
     {
         private readonly IProductService _productService;
 
@@ -14,7 +15,7 @@ namespace ProductServiceHost.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateProduct(Product product)
+        public IActionResult CreateProduct([FromBody] Product product)
         {
             return Ok(_productService.CreateProduct(product));
         }
