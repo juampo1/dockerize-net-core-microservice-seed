@@ -7,5 +7,5 @@ The microservice is divided into 3 projects:
   
 Things to do when cloning the repo:
   - Build the solution.
-  - Change the working directory to where you clone the repo in Propertires/launchSettings.json
+  - Change the working directory to where you clone the repo in Properties/launchSettings.json
   - Change the connection string to match your mysql database.
